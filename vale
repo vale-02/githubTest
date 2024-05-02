@@ -1,3 +1,4 @@
 int main(){
     printf("CIAO");
+    printf("hello my printf");
 }
